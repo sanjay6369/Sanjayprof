@@ -1,53 +1,117 @@
-<h1 align="center">Hi 👋, I'm Sanjay M</h1>
-<h3 align="center">A passionate Computer Science Engineering student and aspiring Software Developer from India</h3>
+<div align="center">
 
-- 🎓 I'm currently pursuing my final year **Computer Science Engineering**
-- 💻 Interested in **Software Development, Full Stack Development, Salesforce, and AI/ML**
-- ☁️ **Salesforce Certified Platform Developer I**
-- 🌱 Currently learning **Java, Data Structures & Algorithms, Salesforce Development, and AI/ML**
-- 📚 Practicing **LeetCode and problem solving**
-- 📫 How to reach me **iamsanjaym18@gmail.com**
+# 👋 Hey, I'm **Sanjay M**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 💻 Computer Science Engineering Student | ☁️ Salesforce Developer | 🚀 Software Developer
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Final+Year+CSE+Student;Salesforce+Certified+Platform+Developer+I;Java+%7C+DSA+%7C+SQL+%7C+Salesforce;Learning+Full+Stack+Development;Exploring+AI+%2F+Machine+Learning" alt="Typing SVG" />
 
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
+<br>
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> 
+<img src="https://komarev.com/ghpvc/?username=SanjayM&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
+</div>
 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-</a> 
+---
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
+<div align="center">
 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-</a>
+## 🚀 About Me
 
-<a href="https://developer.salesforce.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" alt="salesforce" width="40" height="40"/> 
-</a>
+</div>
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-</a>
+<table align="center">
+<tr>
+<td width="55%">
 
-</p>
+### 👨‍💻 Who Am I?
+
+🎓 Final Year **Computer Science Engineering** student
+
+☁️ **Salesforce Certified Platform Developer I**
+
+💻 Passionate about **Software Development**
+
+🧠 Practicing **Data Structures & Algorithms**
+
+🌐 Interested in **Full Stack Development**
+
+🤖 Exploring **AI / Machine Learning**
+
+🔨 Building real-world projects
+
+📚 Learning something new every day
+
+</td>
+
+<td width="45%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,js" />
+
+### 🌐 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+### ☁️ Salesforce
+
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/SOQL-1798C1?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flows-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle" />
+
+### 🤖 AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
+---
+
+<div align="center">
+
+## ☁️ Salesforce Journey
+
+<img src="https://img.shields.io/badge/SALESFORCE%20CERTIFIED-Platform%20Developer%20I-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+
+</div>
+
+### Salesforce Skills
+
+```text
+Salesforce
+├── Apex
+├── SOQL
+├── Lightning Web Components (LWC)
+├── Record-Triggered Flows
+├── Validation Rules
+├── Custom Objects & Relationships
+├── Page Layouts
+├── Reports & Dashboards
+└── Data Management
